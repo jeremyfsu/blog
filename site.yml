@@ -1,0 +1,16 @@
+title : Jeremy Walworth
+tagline: Ruby on Rails developer for Verizon Biz. Maker, hacker, brewer, vintner, father, sinner, aviator, shaolin kempo karate practitioner
+author :
+  name : Jeremy Walworth
+  email : walworth@gmail.com
+  github : username
+  twitter : username
+  feedburner : feedname
+
+navigation :
+  - archive.html
+  - tags.html
+  - categories.html
+  - pages.html
+  - about.md
+  
