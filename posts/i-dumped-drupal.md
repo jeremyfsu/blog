@@ -25,3 +25,9 @@ them.  Then I thought, surely someone's done this, and I did some Googling.  I d
 ran perfectly on my Drupal MySQL tables and turned all my old posts into Markdown pages.  Brilliant!  This led me to
 then discover the author's next project: [Ruhoh](http://ruhoh.com/)
 
+Ruhoh is a static blog generator, has Markdown baked in, as well as a templating engine, is open source, and my favorite 
+part: it's written in Ruby.  You compose your blog posts, run a compile command and then deploy it.  I love it!  It's 
+minimalistic yet has some cool features like tagging and categories built in.  
+
+So far I like it, this is my first blog post composed in RuhOh, and my blog is now hosted on Amazon S3.  Static, 
+minimilist, simple, and free of Russian bots!
