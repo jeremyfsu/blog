@@ -1,4 +1,7 @@
-My blog, JeremyWalworth.com powered by Ruhoh.
+My blog
+--------
+
+My blog, [JeremyWalworth.com](jeremywalworth.com) powered by Ruhoh.
 
 RuhOh's readme begins here
 ------------
