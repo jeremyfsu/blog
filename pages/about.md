@@ -19,3 +19,7 @@ I like....
 + Aviating: Private Pilot
 + Transmitting: Amateur Radio General Class license holder, fav modes are PSK-31 and APRS
 + Defending: studying Shaolin Kempo Karate
+
+[My GithHub](http://github.com/jeremyfsu)
+
+[My Twitter](http://twitter.com/jeremyfsu)

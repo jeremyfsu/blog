@@ -3,14 +3,12 @@ tagline: Ruby on Rails developer for Verizon Biz. Maker, hacker, brewer, vintner
 author :
   name : Jeremy Walworth
   email : walworth@gmail.com
-  github : username
+  github : jeremyfsu
   twitter : username
   feedburner : feedname
 
 navigation :
-  - archive.html
-  - tags.html
-  - categories.html
-  - pages.html
   - about.md
+  - archive.html
+  
   

@@ -23,3 +23,5 @@ folder.  So I came up with this:
     uri = new miuri(location.href);
     window.location = uri.query('q');
 </pre>
+
+[MiURI](https://github.com/radmen/miuri.js) is a simple URI parser in Javascript that I included in the index.php.  That's all it took, so now all my old index.php links out there in the internets still work.
