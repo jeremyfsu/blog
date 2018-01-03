@@ -12,7 +12,7 @@ you that I created
 
 I like....
 
-+ Meditating: Practicing Zen Buddism
++ Meditating: [Practicing Zen Buddhism](http://jeremywalworth.com/zen)
 + Hacking: Gentoo Linux, NodeJS, Javascript, Ruby
 + Farming: I live on 1 acre of rural land where I'm developing my tiny hobby farm.
 + Making: Microconrollers, Raspberry Pi, op amps and anything requiring my soldering Kung Fu
